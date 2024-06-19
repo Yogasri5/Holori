@@ -1,0 +1,82 @@
+{
+    "": {
+        "name": "",
+        "url": ""
+    },
+    "aliyun": {
+        "name": "Alibaba Cloud",
+        "url": "https://alibabacloud.com"
+    },
+    "aws": {
+        "name": "Amazon Web Services",
+        "url": "https://aws.amazon.com"
+    },
+    "azure": {
+        "name": "Microsoft Azure",
+        "url": "https://azure.microsoft.com"
+    },
+    "digital ocean": {
+        "name": "Digital Ocean",
+        "url": "https://www.digitalocean.com"
+    },
+    "gandi": {
+        "name": "Gandi Cloud",
+        "url": "https://www.gandi.net"
+    },
+    "gcp": {
+        "name": "Google Cloud Platform",
+        "url": "https://console.cloud.google.com"
+    },
+    "hetzner": {
+        "name": "Hetzner",
+        "url": "https://www.hetzner.com"
+    },
+    "ikoula": {
+        "name": "Ikoula",
+        "url": "https://www.ikoula.com"
+    },
+    "infomaniak": {
+        "name": "Infomaniak",
+        "url": "https://www.infomaniak.com"
+    },
+    "ionos": {
+        "name": "Ionos Cloud",
+        "url": "https://www.ionos.fr"
+    },
+    "kamatera": {
+        "name": "Kamatera Performance Cloud",
+        "url": "https://www.kamatera.com"
+    },
+    "linode": {
+        "name": "Linode",
+        "url": "https://www.linode.com"
+    },
+    "oracle": {
+        "name": "Oracle",
+        "url": "https://www.oracle.com"
+    },
+    "ovh": {
+        "name": "OVH",
+        "url": "https://www.ovhcloud.com"
+    },
+    "scaleway": {
+        "name": "Scaleway",
+        "url": "https://www.scaleway.com"
+    },
+    "tencent cloud": {
+        "name": "Tencent Cloud",
+        "url": "https://www.tencentcloud.com"
+    },
+    "total cloud": {
+        "name": "Total Cloud",
+        "url": "https://totalcloud.fr"
+    },
+    "upcloud": {
+        "name": "UpCloud",
+        "url": "https://upcloud.com"
+    },
+    "qarnot": {
+        "name": "Qarnot",
+        "url": "https://qarnot.com"
+    }
+}

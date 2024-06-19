@@ -1,0 +1,22 @@
+[
+    {
+        "id": "google",
+        "name": "Google",
+        "url": "https://console.cloud.google.com"
+    },
+    {
+        "id": "github",
+        "name": "GitHub",
+        "url": "https://www.github.com"
+    },
+    {
+        "id": "gitlab",
+        "name": "GitLab",
+        "url": "https://www.gitlab.com"
+    },
+    {
+        "id": "bitbucket",
+        "name": "BitBucket",
+        "url": "https://www.bitbucket.org"
+    }
+]

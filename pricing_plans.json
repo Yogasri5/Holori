@@ -1,0 +1,77 @@
+[
+  {
+    "name": "free",
+    "stripe_id": "free",
+    "price": {
+      "annually": 0,
+      "monthly": 0
+    },
+    "features": [
+      "<strong>3</strong> multicloud diagrams",
+      "<strong>1</strong> editor, <strong>5</strong> read-only",
+      "Cost estimation",
+      "1 AWS account or GCP project linked",
+      "<strong>Monthly</strong> AWS/GCP <strong>auto-sync</strong>",
+      "1 month data retention",
+      "3 on-demand imports/month (AWS, GCP, Terraform)"
+    ],
+    "button": "Sign up",
+    "button_full": true,
+    "details": "Free plan"
+  },
+  {
+    "name": "individual",
+    "stripe_id": "individual",
+    "price": {
+      "annually": 470,
+      "monthly": 49
+    },
+    "features": [
+      "All <strong>Free</strong> features",
+      "<strong>Unlimited diagrams</strong>",
+      "<strong>1</strong> editor, <strong>10</strong> read-only",
+      "<strong>3</strong> accounts/projects linked",
+      "<strong>Weekly</strong> AWS/GCP <strong>auto-sync</strong>",
+      "3 months data retention",
+      "<strong>15</strong> on-demand imports/month"
+    ],
+    "button": "Sign up",
+    "details": "Individual plan"
+  },
+  {
+    "name": "pro",
+    "stripe_id": "small_team",
+    "price": {
+      "annually": 950,
+      "monthly": 99
+    },
+    "features": [
+      "All <strong>Individual</strong> features",
+      "<strong>1</strong> editor, <strong>30</strong> read-only",
+      "<strong>30</strong> accounts/projects linked",
+      "<strong>Daily</strong> AWS/GCP <strong>auto-sync</strong>",
+      "6 months data retention",
+      "Unlimited on-demand imports",
+      "Dedicated onboarding"
+    ],
+    "button": "Sign up",
+    "details": "Individual plan"
+  },
+  {
+    "name": "enterprise",
+    "stripe_id": "enterprise",
+    "price": {
+      "annually": "Custom",
+      "monthly": "Custom"
+    },
+    "features": [
+      "All <strong>Pro</strong> features",
+      "Unlimited users",
+      "<strong>50+</strong> accounts/projects linked",
+      "<strong>5 000+</strong> runs/month",
+      "Dedicated support"
+    ],
+    "button": "Let's Talk",
+    "details": "Enterprise plan"
+  }
+]
